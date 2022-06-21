@@ -11,13 +11,19 @@ class imageViewController: UIViewController {
     
     
     @IBOutlet weak var imageView: UIImageView!
-    
     @IBOutlet weak var landmarkLabel: UILabel!
+    
+    var selectedLandmarkName = ""
+    var selectedLandmarkImages = UIImage()
     
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        // Do any additional setup after loading the view.
+        
+        landmarkLabel.text = selectedLandmarkName
+        imageView.image = selectedLandmarkImages
+        
+        
+        
     }
     
 

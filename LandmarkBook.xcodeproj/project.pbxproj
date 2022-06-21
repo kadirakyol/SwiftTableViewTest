@@ -61,11 +61,11 @@
 				3EBBE9BF2860B5330067F60E /* AppDelegate.swift */,
 				3EBBE9C12860B5330067F60E /* SceneDelegate.swift */,
 				3EBBE9C32860B5330067F60E /* ViewController.swift */,
+				3EBBE9D32861991A0067F60E /* imageViewController.swift */,
 				3EBBE9C52860B5330067F60E /* Main.storyboard */,
 				3EBBE9C82860B5340067F60E /* Assets.xcassets */,
 				3EBBE9CA2860B5340067F60E /* LaunchScreen.storyboard */,
 				3EBBE9CD2860B5340067F60E /* Info.plist */,
-				3EBBE9D32861991A0067F60E /* imageViewController.swift */,
 			);
 			path = LandmarkBook;
 			sourceTree = "<group>";
